@@ -1,0 +1,8 @@
+Array : is a static allocation of memory here , 
+int a[n] creates an array of n objects starting from index , 0 to n-1 also note that this n should be predefined 
+
+## Memory needed for array = memory needed for data type * size of array ##
+
+in array there is a contigious allocation of memory 
+
+name of array is a constant pointer 

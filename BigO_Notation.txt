@@ -1,0 +1,7 @@
+This is used to show the time and space complexity of the code
+here we have two terms time and space complexity 
+
+time complexity is the time taken to run the code while the space complexity can be sub-divided into two parts : 
+Auxillary Space : space given to store the output 
+Input Space : space given to store the input
+

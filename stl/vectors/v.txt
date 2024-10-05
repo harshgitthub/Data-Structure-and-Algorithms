@@ -1,0 +1,2 @@
+vectors are a type of dynamic allocation of memory like we don't have to assign initially how much data we would be storing
+

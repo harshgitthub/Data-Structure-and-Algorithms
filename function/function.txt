@@ -1,0 +1,6 @@
+function can also return a reference variable
+also they can return a pointer to the address of some variable
+
+passing of the arguments here , involves default values too which are taken to be the last paramter to be given to the function 
+
+function overloading :  multiple function with same name but with different parameter type-lists
